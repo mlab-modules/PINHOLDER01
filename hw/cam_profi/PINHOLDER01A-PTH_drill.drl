@@ -1,7 +1,7 @@
 M48
-; DRILL file {KiCad 6.0.11+dfsg-1~bpo11+1} date Thu Apr 13 18:06:49 2023
+; DRILL file {KiCad 6.0.11+dfsg-1~bpo11+1} date Thu Apr 13 18:26:47 2023
 ; FORMAT={3:3/ absolute / metric / suppress leading zeros}
-; #@! TF.CreationDate,2023-04-13T18:06:49+00:00
+; #@! TF.CreationDate,2023-04-13T18:26:47+00:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,6.0.11+dfsg-1~bpo11+1
 ; #@! TF.FileFunction,Plated,1,2,PTH
 FMAT,2
@@ -14,10 +14,10 @@ T2C3.000
 G90
 G05
 T1
-X120100Y-76850
-X123800Y-88650
+X5925Y-6509
+X9625Y-18309
 T2
-X114175Y-70341
-X114175Y-110981
+X0Y0
+X0Y-40640
 T0
 M30
