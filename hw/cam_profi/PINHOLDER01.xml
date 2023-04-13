@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PINHOLDER01.kicad_sch</source>
-    <date>Thu Apr 13 06:26:13 2023</date>
+    <date>Thu Apr 13 07:49:59 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -132,7 +132,7 @@
   </libraries>
   <nets>
     <net code="1" name="/circle_0">
-      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="1" pintype="input"/>
       <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="2" name="GND">
@@ -140,8 +140,8 @@
       <node ref="M3" pin="1" pintype="input"/>
       <node ref="M4" pin="1" pintype="input"/>
     </net>
-    <net code="3" name="Net-(J1-Pad1)">
-      <node ref="J1" pin="1" pintype="input"/>
+    <net code="3" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pintype="input"/>
       <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
   </nets>

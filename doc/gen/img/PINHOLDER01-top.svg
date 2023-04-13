@@ -40,7 +40,7 @@
 </g>
 </g>
 </g> 
-</mask><mask id="hole-mask"><g><rect x="1092491.79" y="654100.0" fill="white" width="270908.21" height="505000.0"/><polyline stroke-linecap="round" stroke="black" stroke-width="30000.0" points="-0.0 0 0.0 0" transform="translate(1141751.79 703411.46) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="30000.0" points="-0.0 0 0.0 0" transform="translate(1141751.79 1109811.46) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="4000.0" points="-0.0 0 0.0 0" transform="translate(1197000.0 888000.0) rotate(0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="4000.0" points="-0.0 0 0.0 0" transform="translate(1244800.0 765200.0) rotate(0)"/></g></mask></defs><g transform="" id="boardContainer"><g id="substrate" clip-path="url(#cut-off)" mask="url(#hole-mask)"><g id="substrate-board" style="fill:#f1f4f3; stroke:#f1f4f3;"><path d=" M 1362400.0 655100.0 L 1093491.0 655151.0 L 1093491.0 1158071.0 L 1362400.0 1158100.0 L 1362400.0 655100.0 " style="fill-rule: evenodd;"/><g style="fill-opacity: 0.0;stroke-width: 2000.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
+</mask><mask id="hole-mask"><g><rect x="1092491.79" y="654100.0" fill="white" width="270908.21" height="505000.0"/><polyline stroke-linecap="round" stroke="black" stroke-width="30000.0" points="-0.0 0 0.0 0" transform="translate(1141751.79 703411.46) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="30000.0" points="-0.0 0 0.0 0" transform="translate(1141751.79 1109811.46) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="4000.0" points="-0.0 0 0.0 0" transform="translate(1238000.0 886500.0) rotate(0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="4000.0" points="-0.0 0 0.0 0" transform="translate(1201000.0 768500.0) rotate(0)"/></g></mask></defs><g transform="" id="boardContainer"><g id="substrate" clip-path="url(#cut-off)" mask="url(#hole-mask)"><g id="substrate-board" style="fill:#f1f4f3; stroke:#f1f4f3;"><path d=" M 1362400.0 655100.0 L 1093491.0 655151.0 L 1093491.0 1158071.0 L 1362400.0 1158100.0 L 1362400.0 655100.0 " style="fill-rule: evenodd;"/><g style="fill-opacity: 0.0;stroke-width: 2000.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
 <path d="M1362400 1158100 L1362400 655100 "/>
 <path d="M1093491 1158071 L1093491 655151 "/>
 <path d="M1093491 1158071 L1362400 1158100 "/>
@@ -86,14 +86,14 @@
 <path style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round;fill-rule: evenodd" d="M 1239000.000000,751500.000000 1239000.000000,771500.000000 1201000.000000,771500.000000 1201000.000000,751500.000000 Z"/> 
 </g>
 <g style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<circle cx="1197000.000000" cy="888000.000000" r="4000.000000"/> 
+<circle cx="1238000.000000" cy="886500.000000" r="4000.000000"/> 
 </g>
 <g style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<circle cx="1244800.000000" cy="765200.000000" r="4000.000000"/> 
+<circle cx="1201000.000000" cy="768500.000000" r="4000.000000"/> 
 </g>
 <g style="fill-opacity: 0.0;stroke-width: 4000.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<path d="M1244800 765200 L1241100 761500 "/>
-<path d="M1241100 761500 L1220000 761500 "/>
+<path d="M1209500 765500 L1205500 769500 "/>
+<path d="M1201000 768500 L1213000 768500 "/>
 </g>
 <g style="fill-opacity: 0.0;stroke-width: 4000.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
 <g style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
@@ -122,14 +122,14 @@
 <path style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round;fill-rule: evenodd" d="M 1239000.000000,751500.000000 1239000.000000,771500.000000 1201000.000000,771500.000000 1201000.000000,751500.000000 Z"/> 
 </g>
 <g style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<circle cx="1197000.000000" cy="888000.000000" r="4000.000000"/> 
+<circle cx="1238000.000000" cy="886500.000000" r="4000.000000"/> 
 </g>
 <g style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<circle cx="1244800.000000" cy="765200.000000" r="4000.000000"/> 
+<circle cx="1201000.000000" cy="768500.000000" r="4000.000000"/> 
 </g>
 <g style="fill-opacity: 0.0;stroke-width: 4000.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<path d="M1244800 765200 L1241100 761500 "/>
-<path d="M1241100 761500 L1220000 761500 "/>
+<path d="M1209500 765500 L1205500 769500 "/>
+<path d="M1201000 768500 L1213000 768500 "/>
 </g>
 <g style="fill-opacity: 0.0;stroke-width: 4000.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
 <g style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
@@ -162,7 +162,11 @@
 <path d="M1348490 971842 L1331490 966176 L1348490 960509 "/>
 </g></g>
 <g style="fill-opacity: 0.0;stroke-width: 1500.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<path d="M1241000 773500 L1199000 773500 "/>
+<text x="1220500.000000" y="745500.000000" textLength="12471.430000" font-size="13333.330000" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">A</text>
+<g class="stroked-text"><desc>A</desc>
+<path d="M1218119 742166 L1222880 742166 "/>
+<path d="M1217166 745023 L1220500 735023 L1223833 745023 "/>
+</g><path d="M1241000 773500 L1199000 773500 "/>
 <path d="M1241000 749500 L1241000 773500 "/>
 <path d="M1199000 773500 L1199000 749500 "/>
 <path d="M1199000 749500 L1241000 749500 "/>
@@ -173,7 +177,7 @@
 <path d="M1093491 1158071 L1362400 1158100 "/>
 <path d="M1093491 655151 L1362400 655100 "/>
 </g> 
-<path d="M -15000.0 0.0 A 15000.0 15000.0 0 1 1 15000.0 0.0 L 15000.0 -0.0 A 15000.0 15000.0 0 1 1 -15000.0 -0.0 Z" transform="translate(1141751.79 703411.46) rotate(-0.0)"/><path d="M -15000.0 0.0 A 15000.0 15000.0 0 1 1 15000.0 0.0 L 15000.0 -0.0 A 15000.0 15000.0 0 1 1 -15000.0 -0.0 Z" transform="translate(1141751.79 1109811.46) rotate(-0.0)"/><path d="M -2000.0 0.0 A 2000.0 2000.0 0 1 1 2000.0 0.0 L 2000.0 -0.0 A 2000.0 2000.0 0 1 1 -2000.0 -0.0 Z" transform="translate(1197000.0 888000.0) rotate(0)"/><path d="M -2000.0 0.0 A 2000.0 2000.0 0 1 1 2000.0 0.0 L 2000.0 -0.0 A 2000.0 2000.0 0 1 1 -2000.0 -0.0 Z" transform="translate(1244800.0 765200.0) rotate(0)"/></g></g><g id="substrate-paste" style="fill:#8a8a8a; stroke:#8a8a8a;"><g style="fill-opacity: 0.0;stroke-width: 0.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
+<path d="M -15000.0 0.0 A 15000.0 15000.0 0 1 1 15000.0 0.0 L 15000.0 -0.0 A 15000.0 15000.0 0 1 1 -15000.0 -0.0 Z" transform="translate(1141751.79 703411.46) rotate(-0.0)"/><path d="M -15000.0 0.0 A 15000.0 15000.0 0 1 1 15000.0 0.0 L 15000.0 -0.0 A 15000.0 15000.0 0 1 1 -15000.0 -0.0 Z" transform="translate(1141751.79 1109811.46) rotate(-0.0)"/><path d="M -2000.0 0.0 A 2000.0 2000.0 0 1 1 2000.0 0.0 L 2000.0 -0.0 A 2000.0 2000.0 0 1 1 -2000.0 -0.0 Z" transform="translate(1238000.0 886500.0) rotate(0)"/><path d="M -2000.0 0.0 A 2000.0 2000.0 0 1 1 2000.0 0.0 L 2000.0 -0.0 A 2000.0 2000.0 0 1 1 -2000.0 -0.0 Z" transform="translate(1201000.0 768500.0) rotate(0)"/></g></g><g id="substrate-paste" style="fill:#8a8a8a; stroke:#8a8a8a;"><g style="fill-opacity: 0.0;stroke-width: 0.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
 <g style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
 <path style="fill-opacity: 1.0;stroke-width: 0.010000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round;fill-rule: evenodd" d="M 1239000.000000,751500.000000 1239000.000000,771500.000000 1201000.000000,771500.000000 1201000.000000,751500.000000 Z"/> 
 </g>
