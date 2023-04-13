@@ -1,6 +1,6 @@
 # PCB
 
-Board size: 26.89x50.3 mm (1.06x1.98 inches)
+Board size: 24.13x50.29 mm (0.95x1.98 inches)
 
 - This is the size of the rectangle that contains the board
 - Thickness: 1.6 mm (63 mils)
