@@ -10,8 +10,8 @@ images:
 - doc/gen/img/PINHOLDER01-bottom.png
 - doc/gen/img/PINHOLDER01-top.png
 - doc/gen/PINHOLDER01-schematic.svg
-- doc/gen/img/PINHOLDER01-top.svg
 - doc/gen/img/PINHOLDER01-bottom.svg
+- doc/gen/img/PINHOLDER01-top.svg
 - hw/cam_profi/docs/PINHOLDER01A-assembly_page_02.svg
 - hw/cam_profi/docs/PINHOLDER01A-assembly_page_01.svg
 issues: 0
