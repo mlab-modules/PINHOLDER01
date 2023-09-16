@@ -7,13 +7,13 @@ github_url: https://github.com/mlab-modules/PINHOLDER01
 homepage: false
 image_title: doc/gen/img/PINHOLDER01-top.png
 images:
-- doc/gen/img/PINHOLDER01-bottom.png
 - doc/gen/img/PINHOLDER01-top.png
+- doc/gen/img/PINHOLDER01-bottom.png
 - doc/gen/PINHOLDER01-schematic.svg
-- doc/gen/img/PINHOLDER01-top.svg
 - doc/gen/img/PINHOLDER01-bottom.svg
-- hw/cam_profi/docs/PINHOLDER01A-assembly_page_02.svg
+- doc/gen/img/PINHOLDER01-top.svg
 - hw/cam_profi/docs/PINHOLDER01A-assembly_page_01.svg
+- hw/cam_profi/docs/PINHOLDER01A-assembly_page_02.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PINHOLDER01-ibom.html
