@@ -15,7 +15,7 @@ images:
 - hw/cam_profi/docs/PINHOLDER01A-assembly_page_01.svg
 - hw/cam_profi/docs/PINHOLDER01A-assembly_page_02.svg
 issues: 0
-mark: 50
+mark: 10
 mod_ibom: hw/cam_profi/ibom/PINHOLDER01-ibom.html
 mod_scheme: doc/gen/PINHOLDER01-schematic.pdf
 status: 2
